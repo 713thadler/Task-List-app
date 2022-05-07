@@ -1,0 +1,9 @@
+.done-task {
+  background-color: #999 !important;
+}
+.done-task span {
+  text-decoration-line: line-through;
+}
+.hide{
+  display: none !important;
+}
